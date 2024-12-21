@@ -1,0 +1,11 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "OnceGzsJAY(Github),SuperGzsJAY(zhihu)",
+  "license": "GPL-3.0-only",
+  "description": "ClenlyMusic APP Server"
+}
