@@ -1,0 +1,11 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "cleanlymusic",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "OnceGzsJAY (Github)",
+  "license": "GPL-3.0-or-later"
+}
